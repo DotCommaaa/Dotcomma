@@ -1,0 +1,31 @@
+div{
+  display: flex;
+  margin-top: -50px;
+}
+
+img{
+  max-width: 220px;
+  margin-left: 100px;
+  position: relative;
+}
+
+ul{
+  display: flex;
+  margin-top: 100px;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-left: 280px;
+}
+
+li{
+  padding: 40px;
+  font-size: 26px;
+}
+
+li:hover{
+  cursor: pointer;
+  color: #FDD91C;
+  transition: 0.4s;
+}
